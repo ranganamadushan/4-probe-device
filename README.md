@@ -68,16 +68,16 @@ Manual reconfiguration for four-probe measurements is time-consuming and prone t
 
 ### Images
 1. **16-Channel Relay Module:**  
-   ! 
+   <img src="1.jpg" alt="Front View" width="500"/> 
 
 2. **ESP32 Microcontroller:**  
-   ! 
+   <img src="2.jpg" alt="Front View" width="500"/>
 
 3. **Four Probes for Measurements:**  
-   ! 
+   <img src="4.jpg" alt="Front View" width="500"/>
 
-4. **Input and Output Probes:**  
-   ! 
+4. **Controller unit:**  
+   <img src="3.jpg" alt="Front View" width="500"/>
 
 ---
 
